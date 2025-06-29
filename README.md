@@ -46,5 +46,6 @@ CREATE TABLE users (
     password VARCHAR(255) NOT NULL,
     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
 );
+
 To Run Code:-
 SELECT * FROM Your_Database.Your_Table_Name;
