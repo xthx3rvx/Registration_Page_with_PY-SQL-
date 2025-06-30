@@ -48,4 +48,5 @@ CREATE TABLE users (
 );
 
 To Run Code:-
+
 SELECT * FROM Your_Database.Your_Table_Name;
