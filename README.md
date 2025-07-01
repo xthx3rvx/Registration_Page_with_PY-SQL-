@@ -30,6 +30,7 @@ mysql-connector-python
 tkinter (usually included with Python)
 
 Install dependencies:
+
 pip install pymysql mysql-connector-python
 
 🗄️ Database Setup
