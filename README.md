@@ -1,4 +1,5 @@
 # Registration_Page_with_PY-SQL-
+
 Registration Page With Python Connect To SQL Database.
 📝 User Registration System
 A desktop-based user registration system built with Python, Tkinter, and MySQL, providing a graphical interface to register users, validate input, hash passwords securely, and manage user data.
